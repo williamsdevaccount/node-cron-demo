@@ -1,0 +1,27 @@
+{
+  "name": "cron-demo",
+  "version": "1.0.0",
+  "description": "node cron demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamsdevaccount/node-cron-demo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "crontab"
+  ],
+  "author": "william stowers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamsdevaccount/node-cron-demo/issues"
+  },
+  "homepage": "https://github.com/williamsdevaccount/node-cron-demo#readme",
+  "dependencies": {
+    "node-cron": "^1.2.1"
+  }
+}
